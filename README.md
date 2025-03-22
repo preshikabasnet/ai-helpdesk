@@ -93,9 +93,9 @@ Ticket history views
 User login and authentication
 Deployment to cloud platforms
 ```
-# License
+## License
 This project is licensed under the MIT License. You may use, distribute, or modify this software under the terms of that license.
 
-# Author
+## Author
 Presika Basnet
 LinkedIn: https://www.linkedin.com/in/preshika-basnet-497314292/
