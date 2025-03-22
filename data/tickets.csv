@@ -1,0 +1,5 @@
+ticket_id,description,category
+1,Unable to connect to Wi-Fi,Network
+2,Laptop is overheating,Hardware
+3,App crashes on login,Software
+4,Password reset not working,Login Issues
