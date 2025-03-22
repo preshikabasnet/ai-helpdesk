@@ -69,23 +69,7 @@ python app.py
 
 6. Open the Web Application
 Open your browser and go to:
-http://localhost:5000/create_ticket
-arduino
-Copy
-Edit
 http://localhost:5000
-Directory Structure
-ai-helpdesk/
-├── app.py                    # Main Flask application
-├── train_model.py           # Model training script
-├── requirements.txt         # Python dependencies
-├── ticket_classifier.pkl    # Trained machine learning model
-├── tickets.db               # SQLite database (auto-generated)
-├── data/
-│   └── tickets.csv          # Sample training data
-├── templates/
-│   └── index.html           # Web form for ticket submission
-└── README.md
 
 Usage
 Once the application is running, navigate to the web interface, submit a ticket, and the system will:
@@ -108,10 +92,10 @@ Urgency detection
 Ticket history views
 User login and authentication
 Deployment to cloud platforms
-
-License
+```
+# License
 This project is licensed under the MIT License. You may use, distribute, or modify this software under the terms of that license.
 
-Author
+# Author
 Presika Basnet
-GitHub: https://github.com/preshikabasnet
+LinkedIn: https://www.linkedin.com/in/preshika-basnet-497314292/
