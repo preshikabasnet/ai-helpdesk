@@ -53,7 +53,7 @@ These instructions will help you set up the project on your local machine for de
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-helpdesk.git
+git clone https://github.com/preshikabasnet/ai-helpdesk.git
 cd ai-helpdesk
 2. Create and Activate a Virtual Environment (Windows PowerShell)
 python -m venv venv
